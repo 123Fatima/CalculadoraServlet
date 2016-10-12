@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5/10/2016, 12:17:21 AM
+    Author     : intel
+*/
+body{/*
+    color: #D5239F;
+    background-color:  #00B08D ; 
+    font-size: 40px;
+    */
+    color: #FF6400;
+    background-color: #66CCCC; 
+    font-size: 40px; 
+}
+input[type="submit"]{
+        font-size:30px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#D5239F;
+        border:0px;
+        width:150px;
+        height:50px;
+       }
+input[type="button"]{
+        font-size:30px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#D5239F;
+        border:0px;
+        width:150px;
+        height:40px;
+       }
+input[type="reset"]{
+        font-size:30px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#D5239F;
+        border:0px;
+        width:150px;
+        height:40px;
+       }
+input[type="text"]{
+        font-size:30px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:graytext;
+        border:0px;
+        width:150px;
+        height:40px;
+       }

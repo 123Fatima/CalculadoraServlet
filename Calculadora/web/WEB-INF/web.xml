@@ -1,0 +1,12 @@
+<web-app>
+    <!--mapeo del primer servlet: Hola mundo  -->
+    <servlet>
+        <servlet-name>ServletRes</servlet-name>
+        <servlet-class>servletHTML.ServletRes</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServletRes</servlet-name>
+        <url-pattern>/ServletRes</url-pattern>
+    </servlet-mapping>
+   
+</web-app>
